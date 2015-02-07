@@ -1,0 +1,7 @@
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\KillAtLogoff\KillAtLogoff\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\KillAtLogoff\KillAtLogoff\obj\Debug\KillAtLogoff.Properties.Resources.resources
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\KillAtLogoff\KillAtLogoff\obj\Debug\KillAtLogoff.csproj.GenerateResource.Cache
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\KillAtLogoff\KillAtLogoff\bin\Debug\KillAtLogoff.exe
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\KillAtLogoff\KillAtLogoff\bin\Debug\KillAtLogoff.pdb
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\KillAtLogoff\KillAtLogoff\obj\Debug\KillAtLogoff.exe
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\KillAtLogoff\KillAtLogoff\obj\Debug\KillAtLogoff.pdb
